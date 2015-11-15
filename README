@@ -1,0 +1,4 @@
+# external-sort
+Sorting files via external files with limited (memory) resources.
+
+Developed it in order to learn golang. Therefore, it is quite simple and only for fun.
